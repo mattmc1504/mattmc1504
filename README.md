@@ -1,4 +1,6 @@
 ### Hi there 👋
+### Test Picture
+![This is a test picture](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png)
 
 <!--
 **mattmc1504/mattmc1504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
