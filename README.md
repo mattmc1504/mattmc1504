@@ -1,5 +1,5 @@
 
-## <div id="header" align="center"> 
+<div id="header" align="center"> 
 ## Matt McIntosh
 ## </center>
 
