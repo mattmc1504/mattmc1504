@@ -1,5 +1,8 @@
+<div align="center">
 ### Hi there 👋
 I'm Matt
+</div>
+
 
 <div id="badges"  align="center">
   <a href="https://www.linkedin.com/in/matt-mcintosh-6ba2461ab/">
