@@ -1,6 +1,6 @@
 
 <p align="center">
-### Matt McIntosh
+**Matt McIntosh**
 
 
 <div id="badges"  align="center">
