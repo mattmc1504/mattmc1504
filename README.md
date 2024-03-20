@@ -17,6 +17,7 @@
 
 </p>
 
+<div></div>
 Mechanical Engineering Graduate from the University of Manchester
 <div></div>
 Operations Manager at DGB Group
