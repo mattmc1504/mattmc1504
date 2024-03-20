@@ -17,7 +17,9 @@
 
 </p>
 
-
+Mechanical Engineering Graduate from the University of Manchester
+Operations Manager at DGB Group
+Qualified Software Engineer
 
 <!--
 **mattmc1504/mattmc1504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
