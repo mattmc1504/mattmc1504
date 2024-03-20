@@ -1,6 +1,6 @@
-<p align="center">
+
 **Matt McIntosh**
-</p>
+
 
 
 <div>
