@@ -1,6 +1,11 @@
 ### Hi there 👋
-### Test Picture
-![This is a test picture](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png)
+I'm Matt
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
+
+
 
 <!--
 **mattmc1504/mattmc1504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
