@@ -18,7 +18,9 @@
 </p>
 
 Mechanical Engineering Graduate from the University of Manchester
+<div></div>
 Operations Manager at DGB Group
+<div></div>
 Qualified Software Engineer
 
 <!--
