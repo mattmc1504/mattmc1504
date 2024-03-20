@@ -1,7 +1,6 @@
 
-<div align="center"> 
-Matt McIntosh
-</center>
+:Matt McIntosh:
+
 <div>
 <div>
 <div id="badges"  align="center">
