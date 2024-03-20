@@ -1,5 +1,6 @@
-<div align="center">
 ### Hi there 👋
+
+<div align="center">
 I'm Matt
 
 
