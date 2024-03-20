@@ -3,7 +3,7 @@
 ## Matt McIntosh
 ## </center>
 <div>
-<div></div>
+<div>
 <div id="badges"  align="center">
   <a href="https://www.linkedin.com/in/matt-mcintosh-6ba2461ab/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
