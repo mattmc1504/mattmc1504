@@ -1,7 +1,7 @@
 
-<div id="header" align="center"> 
-## Matt McIntosh
-## </center>
+<div align="center"> 
+Matt McIntosh
+</center>
 <div>
 <div>
 <div id="badges"  align="center">
