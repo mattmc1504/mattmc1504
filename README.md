@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<div align="center">
-I'm Matt
+Matt McIntosh
 
 
 <div id="badges"  align="center">
