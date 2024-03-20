@@ -10,7 +10,8 @@ Matt McIntosh
 <img src="https://komarev.com/ghpvc/?username=mattmc1504&style=flat-square&color=blue" alt=""/>
 <div>
 <h1>
-  hey there
+  Hey there!
+  <div>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
