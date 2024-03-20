@@ -1,4 +1,4 @@
-## Matt McIntosh
+# Matt McIntosh
 
 
 <div id="badges"  align="center">
