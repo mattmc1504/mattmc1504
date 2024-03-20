@@ -1,6 +1,7 @@
-### Hi there 👋
 
-Matt McIntosh
+<p align="center">
+  
+### Matt McIntosh
 
 
 <div id="badges"  align="center">
@@ -14,6 +15,9 @@ Matt McIntosh
   <div>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+</p>
+
 
 
 <!--
